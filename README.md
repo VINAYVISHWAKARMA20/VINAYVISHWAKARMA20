@@ -1,6 +1,13 @@
 # 💫 About Me:
-<br>Hi, I'm Vinay Vishwakarma 👋<br><br>I am an aspiring software developer with a strong interest in building practical and meaningful technology solutions. My primary focus areas include Android development, data analysis, and modern software development practices.<br><br>I enjoy working on real-world projects that combine creativity with problem solving. Some of my notable projects include QuestLog, a gamified habit tracking application, and Byte News, an AI-powered news aggregation platform.<br><br>Alongside development, I am actively exploring data science, data visualization, and analytics using tools such as Python, Excel, and Power BI. I believe in continuous learning, building projects, and improving my skills step by step.<br><br>Currently, I am focused on expanding my technical knowledge, contributing to open-source projects, and preparing myself for opportunities in software development and data-driven technologies.
+Hi, I'm Vinay Vishwakarma 👋
 
+I am an aspiring software developer passionate about building practical, user-focused technology solutions. My core interests lie in Android development, data analysis, and modern software engineering, where I enjoy turning ideas into meaningful applications.
+
+I actively work on real-world projects that combine creativity with problem-solving. Some of my key projects include QuestLog, a gamified habit-tracking application designed to improve productivity through engagement, and Byte News, an AI-powered news aggregation platform that delivers personalized content efficiently.
+
+In addition to development, I am exploring data science, data visualization, and analytics, using tools such as Python, Excel, and Power BI to derive insights and make data-driven decisions. I strongly believe in continuous learning, hands-on project building, and consistent self-improvement.
+
+Currently, I am focused on strengthening my technical expertise, contributing to open-source projects, and preparing myself for opportunities in software development and data-driven technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_vinay_20_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwakrmavinay04@gmail.com) 
