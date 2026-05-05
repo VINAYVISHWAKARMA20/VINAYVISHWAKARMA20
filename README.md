@@ -18,6 +18,5 @@ Currently, I am focused on strengthening my technical expertise, contributing to
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VINAYVISHWAKARMA20&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAYVISHWAKARMA20&layout=compact&theme=default)
 
 
