@@ -9,7 +9,23 @@ In addition to development, I am exploring data science, data visualization, and
 
 Currently, I am focused on strengthening my technical expertise, contributing to open-source projects, and preparing myself for opportunities in software development and data-driven technologies.
 
-## 
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vinay-vishwakarma-34aa072b2?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/itz_vinay_20_?igsh=MWV4NHpxeTRnc251eQ==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:vishwakrmavinay04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
@@ -17,13 +33,7 @@ Currently, I am focused on strengthening my technical expertise, contributing to
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🌐 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/vinay-vishwakarma-34aa072b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/itz_vinay_20_?igsh=MWV4NHpxeTRnc251eQ==)
-
-""Gmail" (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:vishwakrmavinay04@gmail.com)
 
 ## 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
