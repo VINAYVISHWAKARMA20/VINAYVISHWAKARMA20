@@ -26,6 +26,7 @@ Currently, I am focused on strengthening my technical expertise, contributing to
 </a>
 
 </p>
+
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
