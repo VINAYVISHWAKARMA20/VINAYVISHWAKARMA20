@@ -73,8 +73,6 @@ Currently, I am focused on strengthening my technical expertise, contributing to
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Streak
 
 <p align="center">
