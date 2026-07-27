@@ -75,6 +75,8 @@ Currently, I am focused on strengthening my technical expertise, contributing to
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VINAYVISHWAKARMA20&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=VINAYVISHWAKARMA20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
